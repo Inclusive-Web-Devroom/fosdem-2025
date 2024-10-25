@@ -6,7 +6,7 @@ This repository is used for the planning of the [Inclusive Web devroom](https://
 
 We will be opening the Call for Proposal soon. The deadline for submitting a proposal will be **1st December, 2024**.
 
-# Organizers
+## Organizers
 * [Saptak S](https://saptaks.website)
 * [Tom Carrick](https://carrick.eu/)
 
