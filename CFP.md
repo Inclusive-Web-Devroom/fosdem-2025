@@ -28,6 +28,7 @@ _Not sure if your talk is a good fit?_ We encourage you to submit it anyway!
 - [Localize your open source project with Pontoon](https://archive.fosdem.org/2023/schedule/event/mozilla_localize_your_project_with_pontoon/)
 - [Accessibility & Open Source: How open source is key to building a more inclusive world](https://archive.fosdem.org/2023/schedule/event/accessibility_and_open_source/)
 - [Localization of Open Source Tools into Swahili](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2624-localization-of-open-source-tools-into-swahili/)
+- [The importance of Web Performance to Information Equity](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2411-the-importance-of-web-performance-to-information-equity/)
 
 
 
