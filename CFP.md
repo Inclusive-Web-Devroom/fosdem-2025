@@ -31,7 +31,34 @@ _Not sure if your talk is a good fit?_ We encourage you to submit it anyway!
 - [The importance of Web Performance to Information Equity](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2411-the-importance-of-web-performance-to-information-equity/)
 
 
+## What is the talk format?
 
+Few things to note about the talk format:
+- All talks in-person, and recorded and live-streamed.
+- The speaker will have the stage for 25 minutes in total, including questions from audience. It's up to the speaker(s) to decide how much time they want to leave for questions. We would encourage at least 5 minutes.
+- Talks cannot be longer than 25 mins otherwise you get gently moved off ‘stage’.
 
+## How can I submit a talk?
+
+Submissions open on the **30th of October** and run until **30th of November 2024**.
+
+Steps to submit a talk:
+- Visit https://pretalx.fosdem.org/fosdem-2025/cfp
+- Talk submissions will be sent directly to FOSDEM’s Pretalx system.
+- Submissions for talks must select ‘Inclusive Web’ under ‘Track’.
+
+The devroom managers can then review the talks in the platform.
+
+## What’s the deadline?
+
+Submission of talks must be done by the end of day **30th of November 2024**
+
+Accepted talks would be announced latest in **December 2024.**
+
+## Location and time
+
+- Date: 2nd February 2025
+- Time: 09:00 CET
+- Location: Université Libre Brussels, Belgium ([Open Street Map](http://www.openstreetmap.org/?mlat=50.812375&mlon=4.38073))
 
 
